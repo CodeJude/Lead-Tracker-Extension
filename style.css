@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    background-color: #27374D;
+}
+
+input {
+width: 100%;
+padding: 10px;
+box-sizing: border-box;
+border: 1px solid #009FBD;
+margin-bottom: 4px;
+}
+
+button {
+    background: #009FBD;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+}
+
+#delete-btn {
+    background: white;
+    color: #009FBD;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid;
+}
+
+
+li {
+    margin-top: 5px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+}
+li a {
+    color: #30A2FF;
+}
